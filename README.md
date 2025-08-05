@@ -10,7 +10,6 @@ I'm Wang Chuang, a graduate student at the State Key Laboratory of Networking an
 - 🌱 I’m deeply focused on learning and practicing RAG (Retrieval-Augmented Generation) and intelligent Agent technologies
 - 💬 Feel free to ask me about RAG implementation, Agent system design, or my research in network technology
 - 📫 You can also find me on Gitee: [https://gitee.com/pegasus666](https://gitee.com/pegasus666)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy building practical AI applications that combine knowledge retrieval with intelligent decision-making
 
 Welcome to check out my repositories and feel free to connect with me!
